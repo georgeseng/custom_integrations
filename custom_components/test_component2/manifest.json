@@ -1,5 +1,5 @@
 {
-  "domain": "test_component",
+  "domain": "test_component2",
   "name": "Georges Engelmann",
   "after_dependencies": ["http"],
   "codeowners": ["@georgeseng"],
