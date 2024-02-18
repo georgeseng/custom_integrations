@@ -1,1 +1,3 @@
-# custom_integrations
+# test_component
+
+custom integration test
