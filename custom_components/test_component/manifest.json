@@ -1,14 +1,14 @@
 {
-  "domain": "hue",
-  "name": "Philips Hue",
+  "domain": "test_component",
+  "name": "Georges Engelmann",
   "after_dependencies": ["http"],
   "codeowners": ["@balloob"],
-  "dependencies": ["mqtt"],
+  "dependencies": [""],
   "documentation": "https://www.home-assistant.io/components/hue",
   "integration_type": "hub",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/balloob/hue/issues",
-  "loggers": ["aiohue"],
-  "requirements": ["aiohue==1.9.1"],
+  "issue_tracker": "",
+  "loggers": [""],
+  "requirements": [""],
   "quality_scale": "platinum"
 }
